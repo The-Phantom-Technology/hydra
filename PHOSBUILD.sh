@@ -4,7 +4,7 @@ cd /opt/PHANTX
 
 git clone https://github.com/vanhauser-thc/thc-hydra
 
-cd /opt/PHANTX/hydra
+cd /opt/PHANTX/thc-hydra
 
 ./configure 
 
