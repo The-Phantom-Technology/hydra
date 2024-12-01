@@ -2,7 +2,7 @@ rm -rf /opt/PHANTX/hydra
 
 cd /opt/PHANTX
 
-https://github.com/vanhauser-thc/thc-hydra
+git clone https://github.com/vanhauser-thc/thc-hydra
 
 cd /opt/PHANTX/hydra
 
