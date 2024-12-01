@@ -1,4 +1,4 @@
-rm -rf /opt/PHANTX/hydra
+rm -rf /opt/PHANTX/thc-hydra
 
 cd /opt/PHANTX
 
